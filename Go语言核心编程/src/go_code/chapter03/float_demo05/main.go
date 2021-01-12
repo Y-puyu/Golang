@@ -16,7 +16,7 @@ func main() {
 	var a float32 = 12.00001212 // 12.000012
 	var b float64 = 12.00001212 // 12.00001212
 	fmt.Println(a, b)
-
+	
 	// 浮点类型默认为float64
 	var c = 12.12121
 	fmt.Printf("%T\n", c) // float64

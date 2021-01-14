@@ -26,6 +26,7 @@ func main() {
 	e := .567
 	fmt.Println(d, "\n", e)
 
+	
 	// 科学计数法
 	g := 5.1234e2
 	// h := 5.1234e2	// vscode插件默认将大写E改为小写e

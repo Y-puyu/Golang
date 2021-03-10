@@ -32,4 +32,5 @@ func main() {
 	// h := 5.1234e2	// vscode插件默认将大写E改为小写e
 	k := 5.1234e-2 // 0.051234
 	fmt.Println(g, "\n", k)
+	
 }
